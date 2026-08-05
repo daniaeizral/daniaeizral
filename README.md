@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dania Masyitah Binti Eizral Yusaini 👋
 
-<!--
-**daniaeizral/daniaeizral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML student building intelligent systems for real business problems. Currently focused on document intelligence & automation.
 
-Here are some ideas to get you started:
+## 🎓 Currently
+Bachelor of Information Systems (Hons.) Intelligent Systems Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently building
+- Banking Document Intelligence System (OCR + NLP) — my Final Year Project
+- Exploring Azure AI services (Document Intelligence, Cognitive Services)
+
+## 🛠️ Skills
+- **Languages:** Python, SQL, Java, C++
+- **ML/AI:** TensorFlow, Scikit-learn, Pandas, NLP, OCR
+- **Cloud:** Microsoft Azure (AI-102 Certified)
+- **Data/BI:** Power BI (in progress), Excel (in progress)
+- **Other:** Streamlit, Jupyter, Git, HTML/CSS/PHP
+
+## 📌 Featured Project
+🔗 [Banking Document Intelligence System](#) — extracts structured data from invoices, bank statements, and payslips using OCR + NLP *(link coming soon)*
+
+## 📫 Connect
+[LinkedIn](#) · [Portfolio](#) · [Email](#)
