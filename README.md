@@ -3,7 +3,8 @@
 AI/ML student building intelligent systems for real business problems. Currently focused on document intelligence & automation.
 
 ## 🎓 Currently
-Bachelor of Information Systems (Hons.) Intelligent Systems Engineering
+Bachelor of Information Systems (Hons.) Intelligent Systems Engineering (CS259).
+Universiti Teknologi Mara
 
 ## 🔭 Currently building
 - Banking Document Intelligence System (OCR + NLP) — my Final Year Project
